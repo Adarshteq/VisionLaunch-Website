@@ -16,7 +16,7 @@ VisionLaunch-Website is a cutting-edge gaming platform website featuring:
 
 The website showcases gaming products and services with an engaging user experience.
 
-🔴 Live  https://adarshteq.github.io/VisionLaunch-Website/
+🔴 Live  https://adarshteq.github.io/Gaming-Trailer-Page/
 
 🚀 Features
 
